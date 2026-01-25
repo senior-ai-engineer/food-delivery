@@ -41,7 +41,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    https://github.com/senior-ai-engineer/food-delivery
+    https://github.com/aicodemon/food-delivery.git
 ```
 Go to the project directory
 
